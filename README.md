@@ -1,6 +1,6 @@
 # CS6910_Assignment_-2
 
-This repository contains the Python files used to generate the results presented in the accompanying report. For detailed insights, please refer to the report available [here]([https://api.wandb.ai/links/dibakar/s0xfcb15](https://wandb.ai/dibakar/CS6910_Assignment_2_partA/reports/Dibakar-s-CS6910-Assignment-2--Vmlldzo3NDI1Nzgy?accessToken=0xdvz93u96d2nilpocbj0detjpdq9b4m0k540xibl668nzvpfe8gsotazqgqkicy)).
+This repository contains the Python files used to generate the results presented in the accompanying report. For detailed insights, please refer to the report available [here](https://wandb.ai/dibakar/CS6910_Assignment_2_partA/reports/Dibakar-s-CS6910-Assignment-2--Vmlldzo3NDI1Nzgy?accessToken=0xdvz93u96d2nilpocbj0detjpdq9b4m0k540xibl668nzvpfe8gsotazqgqkicy).
 
 ## Instruction to run the py file:
 
