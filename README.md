@@ -2,18 +2,17 @@
 
 This repository contains the Python files used to generate the results presented in the accompanying report. For detailed insights, please refer to the report available [here](https://api.wandb.ai/links/dibakar/s0xfcb15).
 
-### Instruction to run the py file:
+## Instruction to run the py file:
+
+### Usage
 
 #### train_partA
-
-## Usage
-
-To run the program, you can use the following command-line arguments:
+To run the train_partA.py file, you can use the following command-line arguments:
 
 ```bash
 python your_script.py -e <epochs> -b <batch_size> -lr <learning_rate> -a <activation> -nf <num_filters> -ks <kernel_size> -dp <dropout_prob> -nd <neuron_dense> -fo <filter_org> -datao <data_aug> -bn <batch_norm> -train <train_folder> -test <test_folder>
 ```
-## Command-line Arguments
+##### Command-line Arguments
 
 - `-e`, `--epochs`: Number of epochs to train the neural network (default: 5).
 - `-b`, `--batch_size`: Batch size used to train the neural network (default: 32).
