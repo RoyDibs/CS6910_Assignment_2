@@ -30,3 +30,19 @@ python your_script.py -e <epochs> -b <batch_size> -lr <learning_rate> -a <activa
 
 **Note**: Replace `<epochs>`, `<batch_size>`, `<learning_rate>`, and other placeholders with appropriate values.
 
+#### train_partB
+To run the train_partB.py file, you can use the following command-line arguments:
+
+```bash
+python your_script.py -e <epochs> -b <batch_size> -lr <learning_rate> -train <train_folder> -test <test_folder>
+```
+##### Command-line Arguments
+
+- `-e`, `--epochs`: Number of epochs to train the neural network (default: 5).
+- `-b`, `--batch_size`: Batch size used to train the neural network (default: 32).
+- `-lr`, `--learning_rate`: Learning rate (default: 0.001).
+- `-train`, `--train_folder`: Directory path for the train dataset.
+- `-test`, `--test_folder`: Directory path for the test dataset.
+
+**Note**: Replace `<epochs>`, `<batch_size>`, `<learning_rate>`, and other placeholders with appropriate values.
+
