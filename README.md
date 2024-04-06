@@ -12,7 +12,7 @@ To run the program, you can use the following command-line arguments:
 
 ```bash
 python your_script.py -e <epochs> -b <batch_size> -lr <learning_rate> -a <activation> -nf <num_filters> -ks <kernel_size> -dp <dropout_prob> -nd <neuron_dense> -fo <filter_org> -datao <data_aug> -bn <batch_norm> -train <train_folder> -test <test_folder>
-'''
+```
 ## Command-line Arguments
 
 - `-e`, `--epochs`: Number of epochs to train the neural network (default: 5).
